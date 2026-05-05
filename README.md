@@ -74,19 +74,8 @@ I work across the stack — from backend systems to AI-powered solutions — and
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github)
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
 # 👀 Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=RitvikMalhotra&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
